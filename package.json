@@ -1,0 +1,23 @@
+{
+  "name": "restore-deliciousreverie-posts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "html-to-json-parser": "^1.1.0",
+    "open": "^9.1.0",
+    "rss-parser": "^3.13.0",
+    "rss-to-json": "^2.1.1",
+    "turndown": "^7.1.2"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
